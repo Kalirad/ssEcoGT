@@ -1,4 +1,4 @@
-# Ecological Graph Theory (EcoGT)
+# Stage-structured Ecological Graph Theory (ssEcoGT)
 
 > [!NOTE]
 > The methodology presented here is described in depth in Kalirad, A., & Sommer, R. J. (2026). The
